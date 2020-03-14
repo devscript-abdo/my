@@ -1,0 +1,14 @@
+APP_NAME=Abdelghafour
+APP_ENV=local
+APP_KEY=base64:Ma8VToT2V3pq8coK3Fnz/7xHSU+WIvKC1H6AEM6Vo1o=
+APP_DEBUG=true
+APP_URL=https://www.abdelghafour.ma
+
+LOG_CHANNEL=stack
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=devscrip_abdo
+DB_USERNAME=devscrip_abdo
+DB_PASSWORD=w0Oew3Ygzg3wk^Fe

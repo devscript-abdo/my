@@ -1,0 +1,4 @@
+[08-Mar-2020 05:17:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/haymac/public_html/abdelghafour.ma/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/app/Exceptions/Handler.php on line 8

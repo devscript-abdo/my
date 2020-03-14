@@ -1,0 +1,4 @@
+[07-Mar-2020 22:44:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/haymac/public_html/abdelghafour.ma/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/tests/TestCase.php on line 7

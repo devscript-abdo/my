@@ -1,0 +1,4 @@
+[08-Mar-2020 05:51:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/haymac/public_html/abdelghafour.ma/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/tests/Unit/ExampleTest.php on line 7

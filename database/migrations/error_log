@@ -1,0 +1,28 @@
+[08-Mar-2020 05:28:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/haymac/public_html/abdelghafour.ma/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[08-Mar-2020 05:28:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/haymac/public_html/abdelghafour.ma/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[08-Mar-2020 05:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/haymac/public_html/abdelghafour.ma/database/migrations/2016_01_01_000000_create_pages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/database/migrations/2016_01_01_000000_create_pages_table.php on line 7
+[08-Mar-2020 05:29:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/haymac/public_html/abdelghafour.ma/database/migrations/2016_01_01_000000_create_posts_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/database/migrations/2016_01_01_000000_create_posts_table.php on line 6
+[08-Mar-2020 05:29:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/haymac/public_html/abdelghafour.ma/database/migrations/2016_02_15_204651_create_categories_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/database/migrations/2016_02_15_204651_create_categories_table.php on line 6
+[08-Mar-2020 05:29:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/haymac/public_html/abdelghafour.ma/database/migrations/2017_04_11_000000_alter_post_nullable_fields_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/database/migrations/2017_04_11_000000_alter_post_nullable_fields_table.php on line 7
+[08-Mar-2020 05:29:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/haymac/public_html/abdelghafour.ma/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7

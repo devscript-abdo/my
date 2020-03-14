@@ -1,0 +1,4 @@
+[08-Mar-2020 14:39:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/haymac/public_html/abdelghafour.ma/app/Console/Commands/GenerateSiteMap.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/app/Console/Commands/GenerateSiteMap.php on line 7

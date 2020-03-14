@@ -1,0 +1,20 @@
+[08-Mar-2020 05:22:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/haymac/public_html/abdelghafour.ma/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/app/Providers/AppServiceProvider.php on line 7
+[08-Mar-2020 05:22:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/haymac/public_html/abdelghafour.ma/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/app/Providers/AuthServiceProvider.php on line 8
+[08-Mar-2020 05:22:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/haymac/public_html/abdelghafour.ma/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/app/Providers/BroadcastServiceProvider.php on line 8
+[08-Mar-2020 05:22:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/haymac/public_html/abdelghafour.ma/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/app/Providers/EventServiceProvider.php on line 10
+[08-Mar-2020 05:22:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/haymac/public_html/abdelghafour.ma/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/app/Providers/RouteServiceProvider.php on line 8

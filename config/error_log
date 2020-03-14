@@ -1,0 +1,88 @@
+[07-Mar-2020 22:34:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/database.php on line 18
+[07-Mar-2020 22:34:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/filesystems.php on line 16
+[07-Mar-2020 22:35:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/flare.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/flare.php on line 16
+[07-Mar-2020 22:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/hashing.php on line 32
+[07-Mar-2020 22:35:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/hooks.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/hooks.php on line 5
+[07-Mar-2020 22:35:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/ignition.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/ignition.php on line 17
+[07-Mar-2020 22:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/laravel-page-speed.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/laravel-page-speed.php on line 14
+[07-Mar-2020 22:36:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/laravellocalization.php:341
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/laravellocalization.php on line 341
+[07-Mar-2020 22:36:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/logging.php on line 20
+[07-Mar-2020 22:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/mail.php on line 19
+[07-Mar-2020 22:36:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/haymac/public_html/abdelghafour.ma/config/missing-page-redirector.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/missing-page-redirector.php on line 17
+[07-Mar-2020 22:36:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/queue.php on line 16
+[07-Mar-2020 22:37:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/services.php on line 18
+[07-Mar-2020 22:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/session.php on line 21
+[07-Mar-2020 22:37:30 UTC] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\RequestOptions' not found in /home/haymac/public_html/abdelghafour.ma/config/sitemap.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/sitemap.php on line 19
+[07-Mar-2020 22:37:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/haymac/public_html/abdelghafour.ma/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/trustedproxy.php on line 48
+[07-Mar-2020 22:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/haymac/public_html/abdelghafour.ma/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/view.php on line 17
+[07-Mar-2020 22:38:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/voyager-hooks.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/voyager-hooks.php on line 5
+[07-Mar-2020 22:38:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/voyager.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/voyager.php on line 58
+[07-Mar-2020 22:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/app.php on line 16
+[07-Mar-2020 22:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/broadcasting.php on line 18
+[07-Mar-2020 22:44:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/haymac/public_html/abdelghafour.ma/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/haymac/public_html/abdelghafour.ma/config/cache.php on line 21
